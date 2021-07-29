@@ -11,3 +11,9 @@ section {
 p {
   font-weight: normal;
 }
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
